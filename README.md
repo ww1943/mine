@@ -1,2 +1,2 @@
 # mine
-我的第一个git项目
+http://gitlab.eelantech.com:2880/
